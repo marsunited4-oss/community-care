@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.communitycarecircle.com.au/sitemap.xml
